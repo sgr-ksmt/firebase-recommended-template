@@ -1,7 +1,7 @@
 # Firebase recommended template
 
-This repository is a recommended template that develops with Firebase.  
-It has a very simple and minimum directory structure, and ready to deploy and test.
+This repository is the recommended template for developing with Firebase.  
+It has a very simple and minimum directory structure, and ready to deploy and test.  
 You don't have to run `firebase init` anymore.
 
 ## How to setup your project
