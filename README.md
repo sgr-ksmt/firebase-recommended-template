@@ -13,6 +13,7 @@ You don't have to run `firebase init` anymore.
 - [Optional] Add alias(es) to `.firebaserc` (e.g. "dev", "prod").
 - [Optional] Write or copy `firestore.rules`, `storage.rules`, `firestore.indexes.json` if needed.
 - [Optional] Execute `yarn firebase login` if you haven't logged in yet.
+- Remove `.github/FUNDING.yml` and `README.md` 🙏 These aren't involved with development.
 - Have a good development 🔥🔥🔥.
 
 ## Details
